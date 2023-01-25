@@ -1,7 +1,17 @@
 In Artificial Intelligence, there are different types of agents that can be categorized based on their capabilities and decision-making processes. Some common types of agents include:
 
 * Reflex agents: These are simple agents that make decisions based on the current percept, without considering the history of percepts.
+Reflex agents: A simple example would be a robot that avoids obstacles in its path. It only makes decisions based on the current percept (e.g. the presence of an obstacle in front of it) without considering any past percepts or history.
+
+
 * Model-based agents: These agents maintain an internal model of the environment, which they use to predict the effects of their actions.
+Model-based agents: A self-driving car that uses a map and GPS to navigate would be an example of a model-based agent. The car maintains an internal model of the environment, which it uses to predict the effects of its actions (e.g. how turning left at the next intersection will change its position on the map).
+
 * Goal-based agents: These agents have specific goals or objectives that they are trying to achieve. They make decisions based on how well each action will lead to the achievement of their goal.
+Goal-based agents: A virtual personal assistant, such as Apple's Siri or Amazon's Alexa, that can perform a variety of tasks such as setting reminders, playing music, and answering questions, would be an example of a goal-based agent. The agent's goal is to complete the task assigned by the user.
+
 * Utility-based agents: These agents assign a utility or value to each state of the environment, and make decisions based on the expected utility of each action.
+Utility-based agents: A financial trading algorithm that makes decisions on buying and selling stocks would be an example of a utility-based agent. The agent assigns a utility or value to different stocks and makes decisions based on the expected utility of each action (e.g. buying a particular stock).
+
 * Learning agents: These agents can improve their performance over time by learning from their experiences.
+Learning agents: An example of a learning agent would be a game-playing AI that learns to improve its performance over time by analyzing its past gameplay and adjusting its strategy accordingly.
