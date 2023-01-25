@@ -1,0 +1,7 @@
+In Artificial Intelligence, there are different types of agents that can be categorized based on their capabilities and decision-making processes. Some common types of agents include:
+
+* Reflex agents: These are simple agents that make decisions based on the current percept, without considering the history of percepts.
+* Model-based agents: These agents maintain an internal model of the environment, which they use to predict the effects of their actions.
+* Goal-based agents: These agents have specific goals or objectives that they are trying to achieve. They make decisions based on how well each action will lead to the achievement of their goal.
+* Utility-based agents: These agents assign a utility or value to each state of the environment, and make decisions based on the expected utility of each action.
+* Learning agents: These agents can improve their performance over time by learning from their experiences.
